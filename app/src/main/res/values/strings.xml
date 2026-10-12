@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Contacts Pro</string>
+    <string name="subtitle">Smart Contact Book &amp; Caller</string>
+
+    <!-- Search & Filters -->
+    <string name="search_hint">Search name or phone number…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_favorites">⭐ Favorites</string>
+    <string name="filter_family">Family</string>
+    <string name="filter_friends">Friends</string>
+    <string name="filter_work">Work</string>
+
+    <!-- Contact Details -->
+    <string name="contact_name">Full Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="contact_secondary_phone">Secondary Phone (Optional)</string>
+    <string name="contact_email">Email Address (Optional)</string>
+    <string name="contact_category">Category / Group</string>
+    <string name="contact_notes">Notes (Optional)</string>
+
+    <!-- Actions -->
+    <string name="action_call">Call</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save Contact</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_dialer">Dial Pad</string>
+    <string name="action_add_contact">Add Contact</string>
+
+    <!-- Content Descriptions -->
+    <string name="desc_call">Call phone number</string>
+    <string name="desc_sms">Send text message</string>
+    <string name="desc_edit">Edit contact</string>
+    <string name="desc_delete">Delete contact</string>
+    <string name="desc_favorite">Mark as favorite</string>
+    <string name="desc_dialer">Open Quick Dial Pad</string>
+    <string name="desc_clear">Clear search</string>
+
+    <!-- Dialog Titles -->
+    <string name="title_add_contact">New Contact</string>
+    <string name="title_edit_contact">Edit Contact</string>
+    <string name="title_quick_dialer">Quick Dial Pad</string>
+    <string name="title_delete_contact">Delete Contact</string>
+    <string name="confirm_delete_msg">Are you sure you want to delete %1$s? This action cannot be undone.</string>
+
+    <!-- Validation & Toasts -->
+    <string name="err_empty_name">Please enter contact name</string>
+    <string name="err_empty_phone">Please enter a valid phone number</string>
+    <string name="toast_contact_saved">Contact saved successfully</string>
+    <string name="toast_contact_updated">Contact updated</string>
+    <string name="toast_contact_deleted">Contact deleted</string>
+    <string name="toast_call_initiated">Initiating call to %1$s…</string>
+
+    <!-- Empty States -->
+    <string name="empty_title">No Contacts Found</string>
+    <string name="empty_subtitle">Tap the + button below to add your first contact or search with another keyword.</string>
+
+    <!-- Quick Dialer & Status -->
+    <string name="quick_dialer">Quick Dial Pad</string>
+    <string name="dialer_hint">Enter phone number</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_call">Call</string>
+    <string name="contacts_count">%1$d Contacts Saved</string>
+</resources>
